@@ -8,13 +8,16 @@ export const Planets = props => {
 	const { store, actions } = useContext(Context);
 	return (
 		<Container>
-			<h1 className="text-center mt-5">Planets</h1>
+			<h1 className="text-center mt-5">PLANETAS</h1>
 			<CardDeck>
 				{props.data.map((planet, i) => {
 					return (
 						<Col className="mt-5" md={4} key={i}>
 							<Card>
-								<Card.Img variant="top" src="https://i.ytimg.com/vi/hK0K0KNtkMQ/maxresdefault.jpg" />
+								<Card.Img
+									variant="top"
+									src="https://lumiere-a.akamaihd.net/v1/images/corvus-main_4dcceb2e.jpeg?region=163%2C0%2C955%2C537"
+								/>
 								<Card.Body>
 									<Card.Title>{planet.name}</Card.Title>
 									<Card.Text>

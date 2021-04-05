@@ -10,8 +10,8 @@ export const Home = () => {
 					<Link to="/peopleView">
 						<img
 							className="d-block w-100"
-							src="https://images4.alphacoders.com/673/thumb-1920-673740.jpg"
-							alt="peoples"
+							src="https://lumiere-a.akamaihd.net/v1/images/the-mandalorian-s2-single-hero-b-desktop_28751c8d.jpeg?region=0,0,1200,509"
+							alt="people"
 						/>
 					</Link>
 					<Carousel.Caption>
@@ -24,7 +24,7 @@ export const Home = () => {
 					<Link to="/planetsView">
 						<img
 							className="d-block w-100"
-							src="https://i.pinimg.com/originals/a7/95/96/a79596bdf26a00f6eda7e9e4d10c1e6c.jpg"
+							src="https://lumiere-a.akamaihd.net/v1/images/aeos-prime-main_1af6e847.jpeg?region=280%2C0%2C720%2C720"
 							alt="planets"
 						/>
 					</Link>

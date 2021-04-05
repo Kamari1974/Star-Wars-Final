@@ -10,7 +10,7 @@ export const People = props => {
 
 	return (
 		<Container>
-			<h1 className="text-center mt-5">Characters</h1>
+			<h1 className="text-center mt-5">PERSONAJES</h1>
 			{/* <Form inline>
 				<FormControl type="text" placeholder="Search" className="mr-sm-2" onChange={actions.search} />
 				<Button variant="outline-dark">Search</Button>
@@ -22,7 +22,7 @@ export const People = props => {
 							<Card>
 								<Card.Img
 									variant="top"
-									src="https://cdn.vox-cdn.com/thumbor/ELoxTLvnu6VxO_sL3l2g9pnZm_g=/0x0:1347x1534/1200x800/filters:focal(557x781:771x995)/cdn.vox-cdn.com/uploads/chorus_image/image/66748200/skywalker_saga_now_streaming_final_7b3070d1.0.jpeg"
+									src="https://lumiere-a.akamaihd.net/v1/images/the-mandalorian-s2-single-hero-b-desktop_28751c8d.jpeg?region=0,0,1200,509"
 								/>
 								<Card.Body>
 									<Card.Title>{people.name}</Card.Title>
