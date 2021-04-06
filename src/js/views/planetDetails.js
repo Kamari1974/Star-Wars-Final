@@ -32,12 +32,8 @@ export function PlanetDetails(props) {
 										<Media.Body className="text-center">
 											<h5>{each.name}</h5>
 											<p>
-												Star Wars is an American epic space opera[1] media franchise created by
-												George Lucas, which began with the eponymous 1977 film and quickly
-												became a worldwide pop-culture phenomenon. The franchise has been
-												expanded into various films and other media, including television
-												series, video games, novels, comic books, theme park attractions, and
-												themed areas, comprising an all-encompassing fictional universe.
+												A proud world with a rich warrior culture, Mandalore is home to various
+												clans united under Bo-Katan Kryze, wielder of the Darksaber.
 											</p>
 										</Media.Body>
 									</Col>

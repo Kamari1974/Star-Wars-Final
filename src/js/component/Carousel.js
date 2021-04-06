@@ -7,7 +7,7 @@ export const Home = () => {
 		<Container>
 			<Carousel>
 				<Carousel.Item>
-					<Link to="/peopleView">
+					<Link to="/characters">
 						<img
 							className="d-block w-100"
 							src="https://lumiere-a.akamaihd.net/v1/images/the-mandalorian-s2-single-hero-b-desktop_28751c8d.jpeg?region=0,0,1200,509"

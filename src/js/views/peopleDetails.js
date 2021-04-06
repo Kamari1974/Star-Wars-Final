@@ -32,12 +32,16 @@ export function PeopleDetails(props) {
 										<Media.Body className="text-center">
 											<h5>{each.name}</h5>
 											<p>
-												Star Wars is an American epic space opera[1] media franchise created by
-												George Lucas, which began with the eponymous 1977 film and quickly
-												became a worldwide pop-culture phenomenon. The franchise has been
-												expanded into various films and other media, including television
-												series, video games, novels, comic books, theme park attractions, and
-												themed areas, comprising an all-encompassing fictional universe.
+												During the Clone Wars, a coup orchestrated by Death Watch topples the
+												pacifist regime of the New Mandalorians and returns the armored warrior
+												culture to a position of power over the isolated world. What the average
+												Mandalorian citizen does not realize, however, is that the takeover is
+												in truth masterminded by a secret syndicate of criminals the Shadow
+												Collective led by Maul. Mauls loyal Mandalorians modify their armor to
+												reflect allegiance to the Dark Lord. These super commandos wear armor of
+												red and black, and some even fashion horns atop their helmets, to better
+												resemble their Nightbrother leader. During the Siege of Mandalore, Gar
+												Saxon leads the elite fighting force.
 											</p>
 										</Media.Body>
 									</Col>

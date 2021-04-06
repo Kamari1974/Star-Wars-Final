@@ -7,7 +7,7 @@ export const Menu = () => {
 	const { store, actions } = useContext(Context);
 	return (
 		<Container>
-			<Navbar bg="light">
+			<Navbar bg="dark">
 				<Link to="/">
 					<Navbar.Brand href="#home">
 						<img

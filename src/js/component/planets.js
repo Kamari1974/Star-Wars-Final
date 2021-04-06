@@ -16,7 +16,7 @@ export const Planets = props => {
 							<Card>
 								<Card.Img
 									variant="top"
-									src="https://lumiere-a.akamaihd.net/v1/images/corvus-main_4dcceb2e.jpeg?region=163%2C0%2C955%2C537"
+									src="https://lumiere-a.akamaihd.net/v1/images/databank_mandalore_01_169_91a551b7.jpeg?region=0%2C0%2C1560%2C878"
 								/>
 								<Card.Body>
 									<Card.Title>{planet.name}</Card.Title>

@@ -40,7 +40,7 @@ const Layout = () => {
 					)}
 				</Route>
 				<Route exact path="/characters">
-					<People data={store.characters} />
+					<People data={store.peoples} />
 				</Route>
 				<Route exact path="/planetsView">
 					<Planets data={store.planets} />
